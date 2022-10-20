@@ -2,7 +2,7 @@
 
 :running_man:  Em busca do primeiro emprego na área de tecnologia.
 
-:books:  Desenvolvedor Front-End em formação (tentando ser Full Stack ou Ninja)
+:books:  Desenvolvedor Front-End em formação (tentando ser Full Stack ou Ninja :ninja: )
 
 :space_invader:  Player de Emulador de SNES nas horas vagas.
 
